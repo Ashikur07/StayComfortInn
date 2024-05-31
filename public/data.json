@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "segment_name": "Motel",
+        "estate_title": "Luxury Beachfront Motel",
+        "image": "https://i.ibb.co/khNQnvQ/photo-1615880484746-a134be9a6ecf-q-80-w-1974-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Experience unparalleled luxury and breathtaking views at our beachfront hotel.",
+        "price": "$500 per night",
+        "status": "rent",
+        "area": "5000 sqft",
+        "location": "Miami, FL",
+        "facilities": [
+            "ocean view rooms",
+            "swimming pool",
+            "fitness center",
+            "restaurant"
+        ]
+    },
+    {
+        "id": 2,
+        "segment_name": "Hotel",
+        "estate_title": "Seaside Resort & Spa",
+        "image": "https://i.ibb.co/L8YkZjS/photo-1571896349842-33c89424de2d-q-80-w-1780-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Indulge in ultimate relaxation and rejuvenation at our seaside resort & spa.",
+        "price": "$700 per night",
+        "status": "rent",
+        "area": "6000 sqft",
+        "location": "Maldives",
+        "facilities": [
+            "private beach",
+            "spa",
+            "yoga studio",
+            "gourmet dining"
+        ]
+    },
+    {
+        "id": 3,
+        "segment_name": "Resort",
+        "estate_title": "Urban Boutique Resort",
+        "image": "https://i.ibb.co/Jyvfxnr/photo-1610641818989-c2051b5e2cfd-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Discover the essence of city living with style and sophistication at our urban boutique hotel.",
+        "price": "$400 per night",
+        "status": "sale",
+        "area": "3000 sqft",
+        "location": "New York City, NY",
+        "facilities": [
+            "rooftop bar",
+            "concierge service",
+            "modern decor",
+            "fitness center"
+        ]
+    },
+    {
+        "id": 4,
+        "segment_name": "Resort",
+        "estate_title": "Tropical Island Resort",
+        "image": "https://i.ibb.co/dkpKBNC/photo-1520250497591-112f2f40a3f4-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Escape to our tropical paradise resort and immerse yourself in relaxation and adventure.",
+        "price": "$1000 per night",
+        "status": "rent",
+        "area": "10 acres",
+        "location": "Maui, HI",
+        "facilities": [
+            "private beach",
+            "poolside bar",
+            "spa",
+            "water sports"
+        ]
+    },
+    {
+        "id": 5,
+        "segment_name": "Resort",
+        "estate_title": "Mountain Retreat Resort",
+        "image": "https://i.ibb.co/wYkBRBP/photo-1586611292717-f828b167408c-q-80-w-1974-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Embrace nature's beauty and tranquility at our mountain retreat resort.",
+        "price": "$800 per night",
+        "status": "sale",
+        "area": "5000 sqft",
+        "location": "Lake Tahoe, CA",
+        "facilities": [
+            "ski-in/ski-out access",
+            "hot springs",
+            "hiking trails",
+            "gourmet dining"
+        ]
+    },
+    {
+        "id": 6,
+        "segment_name": "Hotel",
+        "estate_title": "Desert Oasis Hotel",
+        "image": "https://i.ibb.co/j5q5yBn/photo-1578683010236-d716f9a3f461-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Experience luxury amidst the desert landscape at our desert oasis resort.",
+        "price": "$900 per night",
+        "status": "sale",
+        "area": "8000 sqft",
+        "location": "Scottsdale, AZ",
+        "facilities": [
+            "golf course",
+            "spa",
+            "pool cabanas",
+            "fine dining"
+        ]
+    },
+    {
+        "id": 7,
+        "segment_name": "Lodges",
+        "estate_title": "Cozy Mountain Cabin",
+        "image": "https://i.ibb.co/jztT5V7/premium-photo-1685133855379-711aa008f7ba-q-80-w-1887-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Get away from it all and cozy up in our charming mountain cabin retreat.",
+        "price": "$200 per night",
+        "status": "rent",
+        "area": "1500 sqft",
+        "location": "Aspen, CO",
+        "facilities": [
+            "fireplace",
+            "hot tub",
+            "hiking trails nearby",
+            "outdoor shower"
+        ]
+    },
+    {
+        "id": 8,
+        "segment_name": "Guesthouses",
+        "estate_title": "Beachfront Bungalow",
+        "image": "https://i.ibb.co/vH43VMY/photo-1517079495967-03aed29f98b5-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Wake up to the sound of waves in our charming beachfront bungalow.",
+        "price": "$300 per night",
+        "status": "sale",
+        "area": "1000 sqft",
+        "location": "Hawaii",
+        "facilities": [
+            "private beach access",
+            "outdoor shower",
+            "hammocks",
+            "BBQ area"
+        ]
+    },
+    {
+        "id": 9,
+        "segment_name": "vacation rentals",
+        "estate_title": "Lake House Retreat",
+        "image": "https://i.ibb.co/MnQYZzP/photo-1617859047452-8510bcf207fd-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+        "description": "Escape to serenity and enjoy lakefront living at our beautiful lake house retreat.",
+        "price": "$250 per night",
+        "status": "sale",
+        "area": "2000 sqft",
+        "location": "Lake Como, Italy",
+        "facilities": [
+            "boat dock",
+            "lakefront terrace",
+            "fire pit",
+            "canoe rentals"
+        ]
+    }
+]

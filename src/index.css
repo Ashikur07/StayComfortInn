@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-bg {
+  background-color: #002147;
+}
+
+.nav-border {
+  border-bottom: 3px solid #FFB606;
+}
+
+.nav-btn {
+  border: 2px solid #FFB606;
+}
+
+.footer-border {
+  border-top: 3px solid #FFB606;
+}
+
+/* Card slider container */
+.card-slider-container {
+  position: relative;
+}
+
+/* Custom arrow buttons */
+.custom-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  background-color: black; /* Black background */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.custom-arrow:hover {
+  background-color: rgba(0, 0, 0, 0.7); /* Darker background on hover */
+}
+
+.custom-arrow span {
+  color: #ffffff; /* White color for arrow */
+}
+
+.custom-arrow.prev {
+  left: 10px;
+}
+
+.custom-arrow.next {
+  right: 10px;
+}
+
+/* background  */
+
+
